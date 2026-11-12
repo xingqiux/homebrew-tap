@@ -1,7 +1,8 @@
 # xingqiux/homebrew-tap
 
 ```bash
-brew install --cask xingqiux/tap/dingdong
+brew tap xingqiux/tap && brew trust xingqiux/tap
+brew install --cask dingdong
 ```
 
 | Cask | 说明 |
