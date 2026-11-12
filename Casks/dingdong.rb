@@ -1,6 +1,6 @@
 cask "dingdong" do
-  version "1.1.0"
-  sha256 "01feed1d85f74591f8f109d59f1a4bdc8a63aeb4fe8d3fd78d556dfbef70cb28"
+  version "1.1.1"
+  sha256 "1ca0133ef9e9b0fb43bc15d48f95b665aafcf74e1a081a9a310dca935bb2e7a6"
 
   url "https://github.com/xingqiux/dingdong/releases/download/v#{version}/Dingdong-v#{version}.zip"
   name "Dingdong"
